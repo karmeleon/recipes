@@ -1,6 +1,6 @@
 # Lazy Bougie Millenial's Thai Chicken
 
-![Ingredients](https://raw.githubusercontent.com/karmeleon/recipes/master/images/thai_chicken.jpg)
+![Finished product](https://raw.githubusercontent.com/karmeleon/recipes/master/images/thai_chicken.jpg)
 
 For those days where you don't want to put more than 5 minutes into making dinner, but don't mind waiting an hour for it to be ready. This recipe yields far greater results than you really deserve, given the amount of effort you put into it.
 
