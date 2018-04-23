@@ -89,3 +89,15 @@ Stir with ice.
 1oz grenadine
 
 Shake with ice, pour into a Collins glass with ice, then fill with soda water.
+
+### Bubbly Something
+
+1.5oz cucumber vodka (Square One is dope!)
+
+.75oz limoncello
+
+1 drop rose water
+
+1d lemon juice
+
+Shake with ice, pour into a Collins glass with ice, then fill with soda water.
