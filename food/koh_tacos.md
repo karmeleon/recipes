@@ -1,6 +1,6 @@
 # Koh's Wednesday Tacos
 
-![Finished product](https://raw.githubusercontent.com/karmeleon/recipes/master/images/koh tacos.jpg)
+![Finished product](https://raw.githubusercontent.com/karmeleon/recipes/master/images/koh_tacos.jpg)
 
 Koh tasked me with crating something that included chicken and avocado. I made this. It's pretty good. You should make it too.
 
