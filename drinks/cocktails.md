@@ -80,7 +80,7 @@ Stir with ice, serve in an old fashioned glass.
 
 Stir with ice.
 
-### Cocktail 7
+### Collins Macabre
 
 2oz gin
 
@@ -90,7 +90,7 @@ Stir with ice.
 
 Shake with ice, pour into a Collins glass with ice, then fill with soda water.
 
-### Bubbly Something
+### The Hotel Lobby
 
 1.5oz cucumber vodka (Square One is dope!)
 
