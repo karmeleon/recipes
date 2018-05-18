@@ -43,7 +43,7 @@ Named after the board game I was playing when I made it. Very sweet.
 
 Shake with ice, serve up.
 
-### Cocktail 4
+### Cultural Marxism
 
 Some weird bastardization of an Old Fashioned. Don't consume around anyone who gives a shit about keeping cocktails pure.
 
