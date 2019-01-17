@@ -6,7 +6,7 @@ It's getting about as cold as it ever will in San Francisco, so it's time to bre
 
 ### Ingredients
 
-* 1 lb ground lamb
+* 1 lb ground beef
 * 22 oz tomato juice
 * 15 oz tomato sauce
 * 15 oz pinto beans, drained and rinsed
@@ -27,7 +27,7 @@ It's getting about as cold as it ever will in San Francisco, so it's time to bre
 
 1. Toss the veggies, tomato juice and sauce, and non-rosemary spices into a pot.
 2. Add salt and pepper to taste.
-3. Brown and crumble the ground lamb as you season it with salt, pepper, and rosemary in the pan.
+3. Brown and crumble the ground beef as you season it with salt, pepper, and rosemary in the pan.
 4. Add the lamb to the pot, discarding the grease.
 5. Simmer for at least 3 hours.
 6. Serve with whatever chili toppings you like
