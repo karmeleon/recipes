@@ -36,5 +36,6 @@ Other:
 
 1. Toss the slaw ingredients together and season to taste.
 2. Mix the sauce ingredients in a bowl.
-3. Shred the chicken and season it with salt, pepper, cumin, and a touch of chili powder.
-4. Assemble tacos and put them in your mouth. Margaritas optional, but recommended.
+3. Cut the chicken into small pieces and season it with salt, pepper, cumin, and a touch of chili powder.
+4. Saute the chicken, then transfer it to a cutting board and finish the shredding process.
+5. Assemble tacos and put them in your mouth. Margaritas optional, but recommended.
