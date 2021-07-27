@@ -19,7 +19,7 @@ Currently a mix of [these](https://tastesbetterfromscratch.com/drunken-noodles/)
 * 3 Tbsp oyster sauce
 * 3 Tbsp soy sauce
 * 2 tsp brown sugar
-* 3 tsp fish sauce
+* 1 Tbsp fish sauce
 * 1 Tbsp water
 
 ## what to do
