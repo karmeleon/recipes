@@ -8,7 +8,7 @@ For those days where you don't want to put more than 5 minutes into making dinne
 
 ![Ingredients](https://raw.githubusercontent.com/karmeleon/recipes/master/images/thai_chicken_ingredients.jpg)
 
-* 1 chicken breast, frozen or refrigerated
+* 1/2 lb chicken thighs, frozen or refrigerated (or one chicken breast, but thighs are more easily coated in the flavor and have more flavor)
 * Salt and pepper to taste
 * 2 tsp red curry paste
 * 2 tsp lime juice
