@@ -16,6 +16,7 @@ Some random website says the whole thing has just over 2000 calories in it. Do w
 
 * 1 lb ground beef
     * 90/10 seems to work well, but if you're making a double batch it doesn't hurt to use a pound of it plus a pound of 80/20.
+    * You can also substitute in a plant-based beef substitute if you're vegetarian/vegan, but the real stuff definitely tastes better.
 * 1½ sprigs fresh rosemary
 * salt
 * black pepper
@@ -23,8 +24,10 @@ Some random website says the whole thing has just over 2000 calories in it. Do w
 * 15 oz tomato sauce
 * 15 oz pinto beans, drained and rinsed
 * ½ yellow onion, diced
-* 3 habanero peppers, minced + to taste
-* 4 small serrano peppers, minced + to taste
+* Chili peppers:
+    * 3 habanero peppers, minced + to taste
+    * 4 small serrano peppers, minced + to taste
+    * I recommend removing the seeds and ribs of half of these. Feel free to de-seed and de-rib them all if you have a lower spice tolerance, or leave them all in if you want to feel sick for the rest of the day.
 * ½ tsp ground cayenne pepper
 * ¼ tsp cinnamon
 * ¼ tsp dried oregano
