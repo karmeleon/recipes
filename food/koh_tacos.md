@@ -4,7 +4,7 @@
 
 Koh tasked me with creating something that included chicken and avocado. I made this. It's pretty good. You should make it too.
 
-### Ingredients
+## Ingredients
 
 Sauce:
 
@@ -32,7 +32,7 @@ Other:
 * 6 small tortillas
 * ½ Tbsp sour cream per taco
 
-### Steps
+## Steps
 
 1. Toss the slaw ingredients together and season to taste.
 2. Mix the sauce ingredients in a bowl.
