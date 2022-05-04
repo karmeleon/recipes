@@ -57,4 +57,4 @@ __note: I don't love how the chicken came out. It's okay, but I'll update this w
 1. Cover the whole thing with aluminum foil, then bake for 30 minutes
 1. Remove, eat, then eat again and again over the next week cuz hot dang it's a lot of food
 
-[^1] n.b. this is different than the chili powder you [put in your chili](https://github.com/karmeleon/recipes/blob/master/food/chili.md)! You can find it in the Indian section of your local grocery store's ethic food aisle or an Indian grocery store. If you can't find it, ground cayenne works too, but I suggest adding 50% extra (Indian chili powder is spicy!)
+[^1] n.b. this is different than the chili powder you [put in your chili](https://github.com/karmeleon/recipes/blob/master/food/chili.md)! You can find it in the Indian section of your local grocery store's ethnic food aisle or an Indian grocery store. If you can't find it, ground cayenne works too, but I suggest adding 50% extra (Indian chili powder is spicy!)
