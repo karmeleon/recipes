@@ -17,18 +17,18 @@ Some random website says the whole thing has just over 2000 calories in it. Do w
 * 1 lb ground beef
     * 90/10 seems to work well, but if you're making a double batch it doesn't hurt to use a pound of it plus a pound of 80/20.
     * You can also substitute in a plant-based beef substitute if you're vegetarian/vegan, but the real stuff definitely tastes better.
-* 1½ sprigs fresh rosemary
+* 3 sprigs fresh rosemary
 * salt
 * black pepper
 * 22 oz tomato juice
 * 15 oz tomato sauce
-* 15 oz pinto beans, drained and rinsed
-* ½ yellow onion, diced
+* 15 oz red kidney beans, liquid lazily poured down the sink
+* 1 yellow onion, diced
 * Chili peppers:
-    * 3 habanero peppers, minced + to taste
+    * 2 red Fresno peppers, minced + to taste
     * 4 small serrano peppers, minced + to taste
-    * I recommend removing the seeds and ribs of half of these. Feel free to de-seed and de-rib them all if you have a lower spice tolerance, or leave them all in if you want to feel sick for the rest of the day.
 * ½ tsp ground cayenne pepper
+* ½ tsp anchi chili powder
 * ¼ tsp cinnamon
 * ¼ tsp dried oregano
 * ¾ tsp cumin
@@ -41,7 +41,6 @@ Some random website says the whole thing has just over 2000 calories in it. Do w
 2. Drain the grease from the pot, but keep the rosemary sprigs.
 3. Toss the veggies, tomato juice and sauce, and remaining spices into the pot.
 4. Raise the pot to a simmer.
-5. After 15 minutes, fish out the rosemary sprigs and discard.
-6. Taste it! If it's not spicy enough (chili peppers vary in spiciness, after all) feel free to add another serrano or habanero to fine-tune the heat.
-7. Simmer for at least 2½ hours total or slow cook for at least 3 hours (but more is better!).
-8. Serve with whatever chili toppings you like.
+5. Taste it! If it's not spicy enough (chili peppers vary in spiciness, after all) feel free to add another chili to fine-tune the heat.
+6. Simmer for at least 2½ hours total or slow cook for at least 3 hours (but more is better!).
+7. Serve with whatever chili toppings you like.
