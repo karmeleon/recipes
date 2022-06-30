@@ -6,17 +6,15 @@ It's getting about as cold as it ever will be in San Francisco, so it's time to 
 
 ### Info
 
-I quite like cooking it with my Instant Pot -- saute the beef on high, drain, then add the rest of the ingredients and slow cook on high for 3+ hours. I haven't tried pressure cooking it; maybe that'll be in the next iteration~
+I quite like cooking it with my Instant Pot -- saute the beef on high, drain, then add the rest of the ingredients and slow cook on high for 3+ hours. Pressure cooking it is an option that gets it done faster, but for some reason it isn't as good in my experience. Simmering on a stovetop works too.
 
 Makes about 1.8 quarts, or roughly 5 hearty bowls. Plenty for the whole family! Or Sunday meal prep, or heck, just one huge dinner for yourself. I'm not judging.
-
-Some random website says the whole thing has just over 2000 calories in it. Do with this information what you will.
 
 ### Ingredients
 
 * 1 lb ground beef
     * 90/10 seems to work well, but if you're making a double batch it doesn't hurt to use a pound of it plus a pound of 80/20.
-    * You can also substitute in a plant-based beef substitute if you're vegetarian/vegan, but the real stuff definitely tastes better.
+    * You can also substitute in a plant-based beef substitute if you're vegetarian/vegan, but after trying all the options at Safeway I can confidently say the real stuff tastes better.
 * 3 sprigs fresh rosemary
 * salt
 * black pepper
@@ -25,14 +23,14 @@ Some random website says the whole thing has just over 2000 calories in it. Do w
 * 15 oz red kidney beans, liquid lazily poured down the sink
 * 1 yellow onion, diced
 * Chili peppers:
-    * 2 red Fresno peppers, minced + to taste
+    * 2 red Fresno peppers, minced + to taste (substitute 1-2 habaneros if you can't find Fresnos)
     * 4 small serrano peppers, minced + to taste
 * ½ tsp ground cayenne pepper
-* ½ tsp anchi chili powder
+* ½ tsp ancho chili powder
 * ¼ tsp cinnamon
 * ¼ tsp dried oregano
 * ¾ tsp cumin
-* 2 tbsp chili powder
+* 2.5 tbsp chili powder
 * 1½ tsp brown sugar
 * 1 bay leaf
 
