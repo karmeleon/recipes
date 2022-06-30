@@ -34,6 +34,7 @@ Some random website says the whole thing has just over 2000 calories in it. Do w
 * ¾ tsp cumin
 * 2 tbsp chili powder
 * 1½ tsp brown sugar
+* 1 bay leaf
 
 ### Steps
 
