@@ -6,7 +6,7 @@ I like biryani. It was my early pandemic comfort food. This biryani is half-dece
 
 * 1.5 lbs boneless skinless chicken thighs, cut into bite-sized pieces
 * 6oz plain yogurt
-* 1.5 tsp Indian chili powder[^1]
+* 2 tsp Indian chili powder[^1]
 * 1 tsp turmeric
 * 10 cardamom pods (or an equivalent amount of ground cardamom)
 * 1 tsp ground coriander
