@@ -2,6 +2,8 @@
 
 I like biryani. It was my early pandemic comfort food. This biryani is half-decent. You should try it too.
 
+I hear [dum cooking](https://en.wikipedia.org/wiki/Dum_pukht) is perfect for this, but I don't have the gear or skills. PRs welcome if you do!
+
 ## Ingredients
 
 * 1.5 lbs boneless skinless chicken thighs, cut into bite-sized pieces
@@ -48,7 +50,6 @@ I like biryani. It was my early pandemic comfort food. This biryani is half-dece
 
 1. Preheat the oven to 350F
 1. With a slotted spoon, line the bottom of a glass 9x13 baking pan with the mostly-cooked chicken
-2. //TODO: does this amount of food fit in my instant pot?
 3. Pour some of the cooking liquid from the chicken pan so that there's around 5mm in the baking pan
 4. Mix the rice in with the chicken, including the spices the rice was cooked in
 5. Remove the stems from the chilis, cut them in half lengthwise, and distribute them on top of the rice
