@@ -53,7 +53,7 @@ I hear [dum cooking](https://en.wikipedia.org/wiki/Dum_pukht) is perfect for thi
 3. Pour some of the cooking liquid from the chicken pan so that there's around 5mm in the baking pan
 4. Mix the rice in with the chicken, including the spices the rice was cooked in
 5. Remove the stems from the chilis, cut them in half lengthwise, and distribute them on top of the rice
-6. Put some mint leaves on top of that, then spread the red atop that
+6. Put some mint leaves on top of that, then spread the red onion atop that
 7. Cover the whole thing with aluminum foil, then bake for 30 minutes
 8. Remove, eat, then eat again and again over the next week cuz hot dang it's a lot of food
 
