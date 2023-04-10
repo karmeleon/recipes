@@ -4,7 +4,7 @@ Currently a mix of [these](https://tastesbetterfromscratch.com/drunken-noodles/)
 
 ## Ingredients
 * 7oz / 200g-ish flat rice noodles (pad thai noodles work, but the wider the better)
-* Neutral oil
+* Cooking oil; I love the flavor from the chili oil in [this recipe](https://littleferrarokitchen.com/dan-dan-noodles-spicy-szechuan-noodles/) but you can use neutral oil if you don't have any.
 * 3 large cloves garlic, minced
 * 3 bird's eye chilis (or 2 habaneros) minced, seeds removed if you don't want too much spice
 * 1 small onion, sliced
@@ -17,7 +17,7 @@ Currently a mix of [these](https://tastesbetterfromscratch.com/drunken-noodles/)
 
 ### saus
 * 3 Tbsp oyster sauce
-* 3 Tbsp soy sauce
+* 1 Tbsp dark soy sauce + 2 Tbsp water (recommended!) OR 3 Tbsp regular soy sauce
 * 2 tsp brown sugar
 * 1 Tbsp fish sauce
 * 1 Tbsp water
